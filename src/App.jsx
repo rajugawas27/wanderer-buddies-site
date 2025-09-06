@@ -54,7 +54,7 @@ const PACKAGES = [
   {
     id: "north-sikkim",
     title: "North Sikkim 6N/7D (From Kolkata)",
-    price: 20000,
+    price: will update soon, contact us,
     badge: "Best Seller",
     image: "https://images.unsplash.com/photo-1519682660582-77159d3d6ec1?q=80&w=1600&auto=format&fit=crop",
     includes: [
@@ -88,7 +88,7 @@ const GALLERY = [
 
 const INSTAGRAM_LINK = "https://www.instagram.com/wanderer_buddies_/";
 const YOUTUBE_LINK = "https://youtube.com/@wandererbuddies";
-const PHONE_NUMBER = "9845518851";
+const PHONE_NUMBER = "7439696626";
 const EMAIL_ADDRESS = "wandererbuddies1@gmail.com";
 
 const Badge = ({ children }) => (
